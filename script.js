@@ -12,7 +12,7 @@ function redirectToAffiliate(period) {
         window.open(link, '_blank');
     }
 }
-
+ 
 // Função para alternar FAQ
 function toggleFaq(element) {
     const answer = element.nextElementSibling;
